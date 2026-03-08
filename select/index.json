@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Que locura enamorarme de ti",
+  "base_artist": "Eddie Santiago",
+  "createdAt": "2026-03-08T02:45:01.964056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": true,
+      "path": "select/01_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": true,
+      "path": "select/02_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Que locura enamorarme de ti",
+      "artist": "DLG",
+      "has_synced": false,
+      "path": "select/03_Que_locura_enamorarme_de_ti_DLG.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": true,
+      "path": "select/04_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": true,
+      "path": "select/05_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Qué locura enamorarme de ti",
+      "artist": "Huey Dunbar",
+      "has_synced": true,
+      "path": "select/06_Qué_locura_enamorarme_de_ti_Huey_Dunbar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Salsa Picante",
+      "has_synced": false,
+      "path": "select/07_Que_Locura_Enamorarme_De_Ti_Salsa_Picante.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": true,
+      "path": "select/08_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Salsa",
+      "has_synced": true,
+      "path": "select/09_Que_Locura_Enamorarme_De_Ti_Salsa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eddie Santiago - Que locura enamorarme de ti",
+      "artist": "artist",
+      "has_synced": true,
+      "path": "select/10_Eddie_Santiago_-_Que_locura_enamorarme_de_ti_artist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Sampler",
+      "has_synced": true,
+      "path": "select/11_Que_Locura_Enamorarme_De_Ti_Sampler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Que Locura Enamorarme De Ti",
+      "artist": "Eddie Santiago",
+      "has_synced": false,
+      "path": "select/pl_01_Que_Locura_Enamorarme_De_Ti_Eddie_Santiago.txt"
+    }
+  ]
+}
